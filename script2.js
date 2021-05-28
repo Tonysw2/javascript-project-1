@@ -106,3 +106,5 @@ class Pig {
 }
 
 const pigGame = new Pig();
+
+// mudei de novo
